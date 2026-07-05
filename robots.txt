@@ -1,0 +1,5 @@
+User-Agent: *
+Allow: /
+
+Host: https://www.bigcheeseeventing.com
+Sitemap: https://www.bigcheeseeventing.com/sitemap.xml
